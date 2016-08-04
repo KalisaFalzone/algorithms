@@ -1,0 +1,1 @@
+A collection of Algorithm problems taken from Project Euler, Interview Cake, Code Wars and other sources.
